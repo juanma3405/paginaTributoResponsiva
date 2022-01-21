@@ -1,0 +1,32 @@
+body {
+  text-align: center; 
+}
+
+#main{
+  background-color: lightblue;
+  padding:30px;
+  margin: 40px;
+}
+
+
+#img-div {
+  padding: 10px;
+}
+
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+}
+
+
+#club-list {
+  display: inline-block;
+  text-align: left;
+}
+
+#titles-list {
+  display: inline-block;
+  text-align: left;
+}
